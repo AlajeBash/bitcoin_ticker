@@ -32,7 +32,7 @@ git push origin main
 #### Option B: Manually trigger the workflow
 1. Go to the **Actions** tab in your GitHub repository
 2. Click on "Deploy Flutter Web to GitHub Pages" workflow
-3. Click the **Run workflow** button on the right
+3. Click the **Run workflow** dropdown button
 4. Select the branch (main/master) and click **Run workflow**
 
 ### 3. Monitor the Deployment
