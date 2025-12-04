@@ -5,7 +5,7 @@ A Flutter web application that displays real-time cryptocurrency prices for Bitc
 ## 🌐 Live Demo
 
 The app is automatically deployed to GitHub Pages and can be accessed at:
-`https://alajebash.github.io/bitcoin_ticker/`
+`https://[your-username].github.io/bitcoin_ticker/`
 
 ## ✨ Features
 
