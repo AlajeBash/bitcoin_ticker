@@ -50,7 +50,7 @@ Once set up, the app automatically rebuilds and deploys whenever you push change
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AlajeBash/bitcoin_ticker.git
+   git clone https://github.com/alajebash/bitcoin_ticker.git
    cd bitcoin_ticker
    ```
 
