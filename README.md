@@ -43,7 +43,7 @@ Once set up, the app automatically rebuilds and deploys whenever you push change
 
 ### Prerequisites
 
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) (3.5.0 or higher)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) (3.10.0 or higher)
 - A code editor (VS Code, Android Studio, or IntelliJ)
 
 ### Running Locally
