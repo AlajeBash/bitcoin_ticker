@@ -13,7 +13,7 @@ The app is automatically deployed to GitHub Pages and can be accessed at:
 - Support for multiple fiat currencies (USD, EUR, GBP, and 20+ others)
 - Clean and intuitive user interface
 - Responsive web design
-- Auto-updates on currency selection
+- Auto-updates on currency selection.
 
 ## 🚀 Hosting Online for Free
 
