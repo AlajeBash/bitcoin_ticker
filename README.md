@@ -90,8 +90,11 @@ Once set up, the app automatically rebuilds and deploys whenever you push change
 
 ## 📝 API Information
 
-This app uses the [CoinAPI.io](https://www.coinapi.io/) REST API to fetch real-time cryptocurrency prices. The API key is included in the code for demonstration purposes.
+This app uses the [CoinAPI.io](https://www.coinapi.io/) REST API to fetch real-time cryptocurrency prices.
 
+> ⚠️ **Important:** The API key included in the code is for demonstration purposes only. It is publicly visible in this repository and the deployed application. Anyone can use this key, which may quickly exhaust the CoinAPI free tier rate limit (100 requests/day).
+>
+> **For production use:** You should [sign up for your own CoinAPI key](https://www.coinapi.io/pricing/) and replace the demo key in the code. Never commit sensitive API keys to public repositories. Consider using environment variables or GitHub secrets to manage API keys securely.
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests with improvements!
